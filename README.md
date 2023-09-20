@@ -28,6 +28,7 @@ Este projeto é uma RESTful API para controle de finanças pessoais. Ele foi des
 Para utilizar a aplicação, certifique-se de ter os seguintes recursos instalados:
 
 - Node.js 
+- PostgreSQL 
 - Editor SQL
 - Ferramenta de teste de APIs
 
@@ -74,7 +75,7 @@ Para configurar o projeto em seu ambiente local, siga estas etapas:
 
 ## Como utilizar
 
-Você pode utilizar o projeto com uma ferramenta de teste e depuração de APIs, como o Insomnia. O projeto estará rodando no host definido pelo usuário no arquivo `.env` e utilizando a porta `3000` do servidor, definida no arquivo [`index.js`](./src/index.js).
+Você pode utilizar o projeto com uma ferramenta de teste e depuração de APIs, como o Insomnia. Por padrão, o projeto estará rodando no localhost e utilizando a porta `3000` do servidor, definida no arquivo [`index.js`](./src/index.js).
 
 ### Endpoints e exemplos de requisição
 
