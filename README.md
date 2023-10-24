@@ -39,7 +39,7 @@ Para configurar o projeto em seu ambiente local, siga estas etapas:
 1. Clone o repositório:
 
    ``` bash
-   git clone https://github.com/sahrarafaela/desafio-backend-m03-b2bt05
+   git clone https://github.com/marriett/api-controle-financeiro
    ```
 
 2. Navegue até a pasta do projeto:
